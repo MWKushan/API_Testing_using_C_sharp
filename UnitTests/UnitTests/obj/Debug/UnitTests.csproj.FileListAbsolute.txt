@@ -1,0 +1,10 @@
+D:\ALL\Samples\UnitTests\UnitTests\UnitTests\bin\Debug\UnitTests.dll
+D:\ALL\Samples\UnitTests\UnitTests\UnitTests\bin\Debug\UnitTests.pdb
+D:\ALL\Samples\UnitTests\UnitTests\UnitTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\ALL\Samples\UnitTests\UnitTests\UnitTests\bin\Debug\Newtonsoft.Json.dll
+D:\ALL\Samples\UnitTests\UnitTests\UnitTests\bin\Debug\Newtonsoft.Json.xml
+D:\ALL\Samples\UnitTests\UnitTests\UnitTests\obj\Debug\UnitTests.csproj.AssemblyReference.cache
+D:\ALL\Samples\UnitTests\UnitTests\UnitTests\obj\Debug\UnitTests.csproj.CoreCompileInputs.cache
+D:\ALL\Samples\UnitTests\UnitTests\UnitTests\obj\Debug\UnitTests.csproj.CopyComplete
+D:\ALL\Samples\UnitTests\UnitTests\UnitTests\obj\Debug\UnitTests.dll
+D:\ALL\Samples\UnitTests\UnitTests\UnitTests\obj\Debug\UnitTests.pdb
